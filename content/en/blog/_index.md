@@ -3,6 +3,7 @@ title: Blog
 menu: {main: {weight: 30}}
 ---
 
-This is the **blog** section. It has two categories: News and Releases.
+Stay up to date with the latest news, releases, and updates from the AI-Integrated Engineering Program (AIEP).
 
-Files in these directories will be listed in reverse chronological order.
+- [News](/blogs/news/)
+- [Releases](/blogs/release/)
