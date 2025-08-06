@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on KU AI-Integrated Engineering Program</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on KU AI-Integrated Engineering Program</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum</title>
+      <link>http://localhost:1313/tags/curriculum/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/curriculum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Release</title>
+      <link>http://localhost:1313/tags/release/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/release/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI X Engineering</title>
+      <link>http://localhost:1313/tags/ai-x-engineering/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai-x-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AIEP</title>
+      <link>http://localhost:1313/tags/aiep/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/aiep/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineering Education</title>
+      <link>http://localhost:1313/tags/engineering-education/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/engineering-education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future Engineers</title>
+      <link>http://localhost:1313/tags/future-engineers/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/future-engineers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kasetsart University</title>
+      <link>http://localhost:1313/tags/kasetsart-university/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kasetsart-university/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

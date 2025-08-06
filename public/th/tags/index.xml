@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on วิศวกรรมบูรณาการปัญญาประดิษฐ์</title>
+    <link>http://localhost:1313/th/tags/</link>
+    <description>Recent content in Tags on วิศวกรรมบูรณาการปัญญาประดิษฐ์</description>
+    <generator>Hugo</generator>
+    <language>th</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/th/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum</title>
+      <link>http://localhost:1313/th/tags/curriculum/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/curriculum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Release</title>
+      <link>http://localhost:1313/th/tags/release/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/release/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI X Engineering</title>
+      <link>http://localhost:1313/th/tags/ai-x-engineering/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/ai-x-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AIEP</title>
+      <link>http://localhost:1313/th/tags/aiep/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/aiep/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kasetsart University</title>
+      <link>http://localhost:1313/th/tags/kasetsart-university/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/kasetsart-university/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>การศึกษาวิศวกรรม</title>
+      <link>http://localhost:1313/th/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ปัญญาประดิษฐ์</title>
+      <link>http://localhost:1313/th/tags/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>วิศวกรแห่งอนาคต</title>
+      <link>http://localhost:1313/th/tags/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/th/tags/artificial-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineering Education</title>
+      <link>http://localhost:1313/th/tags/engineering-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/engineering-education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future Engineers</title>
+      <link>http://localhost:1313/th/tags/future-engineers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/th/tags/future-engineers/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
